@@ -1,6 +1,7 @@
 {
     "name": "am0n666/am0n-base-application",
     "type": "template",
+    "minimum-stability": "stable",
     "description": "A project template to create new am0n project.",
     "keywords": ["template","am0n"],
     "homepage": "https://github.com/am0n666/am0n-base-application",
