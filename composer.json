@@ -1,0 +1,15 @@
+{
+    "name": "am0n666/am0n-base-application",
+    "type": "template",
+    "description": "A project template to create new am0n project.",
+    "keywords": ["template","am0n"],
+    "homepage": "https://github.com/am0n666/am0n-base-application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "am0n666",
+            "email": "am0n666x@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
